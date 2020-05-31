@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "632741037371",
+    "firebase_url": "https://ruksbirthdayapp.firebaseio.com",
+    "project_id": "ruksbirthdayapp",
+    "storage_bucket": "ruksbirthdayapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632741037371:android:02fee5a686239e737b631e",
+        "android_client_info": {
+          "package_name": "com.chatapp.raksbirthday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632741037371-nkknh590j6sluavn4ev4klch4vnmqb7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJf6A3S5t8dnNyed19Rte6ysKgrhgzez8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632741037371-nkknh590j6sluavn4ev4klch4vnmqb7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
